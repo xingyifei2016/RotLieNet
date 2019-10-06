@@ -9,7 +9,7 @@ Complex-valued deep learning has attracted increasing attention in recent years,
 
 Further information please contact [Rudrasis Chakraborty](https://github.com/rudra1988) and [Yifei Xing](mailto:xingyifei2016@berkeley.edu).
 
-<img src='./assets/results_merge.pdf' width=800>
+<img src='./assets/results_merge.png' width=800>
 
 ## Requirements
 * [PyTorch](https://pytorch.org/)
