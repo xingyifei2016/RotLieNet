@@ -139,7 +139,7 @@ def main():
     kwargs = {'num_workers': 1, 'pin_memory': True} if use_cuda else {}
     model = model_.ManifoldNetRes().cuda()
     if args.use_pretrain:
-        model.load_state_dict(torch.load('./save/1517split[99.252]-[100]-[0.015]-11class-model.ckpt'))
+        model.load_state_dict(torch.load('./pretrained_model.ckpt'))
     model_parameters = filter(lambda p: p.requires_grad, model.parameters())
     params = sum([np.prod(p.size()) for p in model_parameters])
     print("#Model Parameters: "+str(params))
