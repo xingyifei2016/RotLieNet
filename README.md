@@ -1,6 +1,6 @@
 # Complex-Valued Deep Neural Network with Weighted Fréchet Mean
 
-- This is an updated version of [This](https://arxiv.org/abs/1906.10048)
+- This work is an updated version of [This Paper](https://arxiv.org/abs/1906.10048)
 
 ## Abstract
 
