@@ -1,5 +1,7 @@
 # Complex-Valued Deep Neural Network with Weighted Fréchet Mean
 
+- This is an updated version of [This](https://arxiv.org/abs/1906.10048)
+
 ## Abstract
 
 Complex-valued deep learning has attracted increasing attention in recent years, due to its versatility and ability to capture more information. However, the lack of well-defined complex-valued operations remains a bottleneck for further advancement. In this work, we propose a geometric way to define deep neural networks on the space of complex numbers by utilizing weighted Fréchet mean. We mathematically prove the viability of our algorithm. We also define basic building blocks such as convolution, non-linearity, and residual connections tailored for the space of complex numbers. To demonstrate the effectiveness of our proposed model, we compare our complex-valued network comprehensively with its real state-of-the-art counterpart on the MSTAR classification task and achieve better performance, while utilizing less than 1% of the parameters. 
@@ -13,7 +15,6 @@ Complex-valued deep learning has attracted increasing attention in recent years,
 - [Peter Wang](mailto:peterwg@berkeley.edu)
 - [Stella Yu](mailto:stellayu@berkeley.edu)
 
--
 
 <img src='./assets/results_merge.png' width=800>
 
