@@ -7,7 +7,11 @@ Complex-valued deep learning has attracted increasing attention in recent years,
 
 <img src='./assets/summary.png' width=800>
 
-Further information please contact [Rudrasis Chakraborty](https://github.com/rudra1988), [Yifei Xing](mailto:xingyifei2016@berkeley.edu), [Peter Wang](peterwg@berkeley.edu), [Stella Yu](stellayu@berkeley.edu).
+## People
+[Rudrasis Chakraborty](https://github.com/rudra1988)
+[Yifei Xing](mailto:xingyifei2016@berkeley.edu) 
+[Peter Wang](mailto:peterwg@berkeley.edu)
+[Stella Yu](mailto:stellayu@berkeley.edu)
 
 <img src='./assets/results_merge.png' width=800>
 
