@@ -1,6 +1,6 @@
 # Complex-Valued Deep Neural Network with Weighted Fréchet Mean
 
-- This work is an updated version of [This Paper](https://arxiv.org/abs/1906.10048)
+- [This work](https://arxiv.org/abs/1910.11334) is an updated version of [This Paper](https://arxiv.org/abs/1906.10048)
 
 ## Abstract
 
@@ -35,6 +35,9 @@ Complex-valued deep learning has attracted increasing attention in recent years,
 ```
 python train_demo.py
 ```
+
+## Baseline
+[Here](https://github.com/xingyifei2016/MSTAR_baseline) is code for a baseline ResNet50 model that we used in the paper. Our model utilizes approximately 1% of model parameters of this baseline model and achieves slightly better results.
 
 ## CAUTION
 The current code was prepared using single GPU. The use of multi-GPU may cause problems. 
