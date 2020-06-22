@@ -39,6 +39,10 @@ python train_demo.py
 ## Baseline
 [Here](https://github.com/xingyifei2016/MSTAR_baseline) is code for a baseline ResNet50 model that we used in the paper. Our model utilizes approximately 1% of model parameters of this baseline model and achieves slightly better results.
 
+## Newer Work
+[Here](https://github.com/xingyifei2016/shrinkage_demo) is our more recent work that utilizes a prototype-based shrinkage estimator for complex-valued deep learning.
+
+
 ## CAUTION
 The current code was prepared using single GPU. The use of multi-GPU may cause problems. 
 
