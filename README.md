@@ -1,6 +1,6 @@
 # Complex-Valued Deep Neural Network with Weighted Fréchet Mean
 
-- This code is adapted from code made by [Rudrasis Chakraborty](https://github.com/rudra1988), and is an outdated version for [This Paper](https://arxiv.org/abs/1906.10048). There is an updated version of the code at [This Link](https://github.com/sutkarsh/cds)
+- There is an updated version of the code at [This Link](https://github.com/sutkarsh/cds). This code is adapted from code made by [Rudrasis Chakraborty](https://github.com/rudra1988), and is an outdated version for [This Paper](https://arxiv.org/abs/1906.10048). 
 
 ## Abstract
 
